@@ -1,0 +1,182 @@
+.h01{
+    height: 100px;
+}
+.h005{
+    height: 50px ;
+}
+.h015{
+    height: 150px;
+}
+.h02{
+    height: 200px;
+}
+.h03{
+    height: 300px;
+}
+.h04{
+    height: 400px;
+}
+.h05{
+    height: 500px;
+}
+.h06{
+    height: 600px;
+}
+.h08{
+    height: 800px;
+}
+
+
+.w01{
+    width: 150px;
+}
+.bgcgray{
+    background-color: gray;
+}
+.bgcbl{
+    background-color: black;
+}
+.bgcg{
+    background-color: green;
+}
+.bgcwh{
+    background-color: white;
+}
+.bgcw{
+    background-color: white;
+}
+.bgcw:hover{
+    background-color: lightgray;
+}
+.bgcbl1{
+    background-color: black;
+}
+.bgcbl1:hover{
+    background-color: white;
+}
+.bgco{
+    background-color: black;
+}
+.bgco:hover{
+    background-color: orangered;
+}
+.bgco1{
+    background-color: orangered;
+}
+.cow{
+    color: white;
+}
+.cogy{
+    color:gray
+}
+.cow1 a{
+    color: white;
+}
+.cow1:hover a{
+    color:black;
+}
+
+.tx{
+    text-align: center;
+}
+
+.br{
+    border: 1px solid black;
+}
+.fs{
+    font-size: 20px;
+}
+.bs{
+    box-shadow: 1px 1px 5px 5px silver;
+}
+.ml{
+    margin-left: 310px;
+    margin-top: 0px;
+}
+.bt{
+    height: 30px;
+    width: 100px;
+    
+        background-color: black;
+
+
+        color: white;
+
+   
+
+}
+.bt:hover{
+    height: 30px;
+    width: 100px;
+
+        background-color: white;
+ 
+       color:black;
+
+   
+
+}
+.fi{
+    font-size: 25px !important;
+    color:rgb(77, 77, 77);
+    margin-top: 10px;
+    
+}
+.fi:hover{
+    font-size: ;
+    color: gray;
+    
+}
+
+.mt001{
+    margin-top: 10px;
+}
+
+.mt01{
+    margin-top: 20px;
+}
+.mt02{
+    margin-top: 40px;
+}
+.mt03{
+    margin-top: 60px;
+}
+.mt04{
+    margin-top: 80px;
+}
+.mt05{
+    margin-top: 100px;
+}
+.mt06{
+    margin-top: 120px;
+}
+.img1{
+    background-image: url(img/5.jpg);
+}
+.img2{
+    background-image: url(img/6.jpg);
+
+}
+.img3{
+    background-image: url(img/7.jpg);
+
+}
+.ooo{
+    height: 100%;width: 100%;background-color: rgba(0, 0, 0, 0);
+}
+.ooo:hover{
+    height: 100%;width: 100%;background-color: rgba(0, 0, 0, 0.274);
+}
+
+
+@media(max-width:500px){
+    .h{
+        display: none;
+    }
+}
+.bgcr{
+    background-color: red;
+}
+.bgcr:hover{
+    background-color: blue;
+}
